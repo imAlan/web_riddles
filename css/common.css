@@ -24,6 +24,11 @@ nav {
 	margin: 0 auto;
 }
 
+.box > p {
+	font-size: 24px;
+	padding-top: 70%;
+}
+
 .riddle {
 	text-align: center;
 }
